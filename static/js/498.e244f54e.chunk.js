@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkthisaru_harshana_portfolio=self.webpackChunkthisaru_harshana_portfolio||[]).push([[498],{351(a,s,r){r.r(s),r.d(s,{default:()=>i});const t=r.p+"static/media/thisaru.60a90039aa94f3da755b.png";var e=r(579);const i=function(){return(0,e.jsx)("img",{src:t,alt:"Harshana Hewage",loading:"lazy",className:"profile-image"})}}}]);
+//# sourceMappingURL=498.e244f54e.chunk.js.map
